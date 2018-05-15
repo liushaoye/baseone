@@ -19,7 +19,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = MockServletContext.class)
 @WebAppConfiguration
-public class BaseoneApplicationTests {
+public class BaseOneApplicationTests {
 
 
 

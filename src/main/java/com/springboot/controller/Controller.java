@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Created by liuya
- * User: liuya
+ * @author: liuya
  * Date: 2018/5/15
  * Time:  9:48
  * projectName:baseone
